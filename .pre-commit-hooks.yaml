@@ -1,7 +1,7 @@
 -   id: pyrefly
     name: pyrefly
     description: 'pyrefly type checking'
-    entry: pyrefly
+    entry: pyrefly check
     language: python
     'types_or': [python, pyi]
     args: []
