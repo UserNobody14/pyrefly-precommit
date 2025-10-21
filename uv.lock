@@ -27,4 +27,4 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "pyrefly", specifier = ">=0.37.0" }]
+requires-dist = [{ name = "pyrefly", specifier = "==0.37.0" }]
